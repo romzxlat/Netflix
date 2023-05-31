@@ -1,0 +1,181 @@
+[
+  {
+    "title": "Kung Fu Panda 1",
+    "genre": "Movie",
+    "image": "images/Kung_Fu_Panda_1.jpg",
+    "release": "popularOnNetflix"
+  },
+  {
+    "title": "Kung Fu Panda 2",
+    "genre": "Movie",
+    "image": "images/Kung_Fu_Panda_2_Poster.jpg",
+    "release": "latestRelease"
+  },
+  {
+    "title": "Kung Fu Panda 3",
+    "genre": "Movie",
+    "image": "images/Kung_Fu_Panda_3.jpg",
+    "release": "continueWatching"
+  },
+  {
+    "title": "One Piece",
+    "genre": "Anime",
+    "image": "images/OnePiece.jpg",
+    "release": "continueWatching"
+  },
+  {
+    "title": "Yowamushi Pedal",
+    "genre": "Anime",
+    "image": "images/Yowamushi_Pedal_1.png",
+    "release": "latestRelease"
+  },
+  {
+    "title": "Good Doctor",
+    "genre": "Kdrama",
+    "image": "images/Good_Doctor.jpg",
+    "release": "latestRelease"
+  },
+  {
+    "title": "Naruto",
+    "genre": "Anime",
+    "image": "images/NarutoCoverTankobon1.jpg",
+    "release": "popularOnNetflix"
+  },
+  {
+    "title": "Descendants of the Sun",
+    "genre": "Kdrama",
+    "image": "images/DescendantsoftheSun.jpg",
+    "release": "latestRelease"
+  },
+  {
+    "title": "Crash Lading On You",
+    "genre": "Kdrama",
+    "image": "images/CrashLandingOnYou.jpg",
+    "release": "continueWatching"
+  },
+  {
+    "title": "Death Note",
+    "genre": "Anime",
+    "image": "images/DeathNote.jpg",
+    "release": "popularOnNetflix"
+  },
+  {
+    "title": "Demon Slayer",
+    "genre": "Anime",
+    "image": "images/DemonSlayer.jpg",
+    "release": "continueWatching"
+  },
+  {
+    "title": "Doctor Stranger",
+    "genre": "Kdrama",
+    "image": "images/Doctor-Stranger.jpg",
+    "release": "popularOnNetflix"
+  },
+  {
+    "title": "Doctor Romantic",
+    "genre": "Kdram",
+    "image": "images/Dr._Romantic.jpg",
+    "release": "latestRelease"
+  },
+  {
+    "title": "Dragon Ball Super",
+    "genre": "Anime",
+    "image": "images/DragonBallSuper.png",
+    "release": "popularOnNetflix"
+  },
+  {
+    "title": "Hwarang",
+    "genre": "Kdrama",
+    "image": "images/Hwarang_Poster.jpg",
+    "release": "latestRelease"
+  },
+  {
+    "title": "Hunter X Hunter",
+    "genre": "Anime",
+    "image": "images/HxH.jpg",
+    "release": "latestRelease"
+  },
+  {
+    "title": "Iron Man",
+    "genre": "Movie",
+    "image": "images/IronMan.png",
+    "release": "latestRelease1"
+  },
+  {
+    "title": "Itaewon Class",
+    "genre": "Kdrama",
+    "image": "images/ItaewonClass.jpg",
+    "release": "latestRelease1"
+  },
+  {
+    "title": "John Wick 1",
+    "genre": "Movie",
+    "image": "images/johnwick.jpg",
+    "release": "latestRelease1"
+  },
+  {
+    "title": "John Wick",
+    "genre": "Movie",
+    "image": "images/johnwick1.jpg",
+    "release": "continueWatching"
+  },
+  {
+    "title": "Love Live",
+    "genre": "Anime",
+    "image": "images/LoveLiove.jpg",
+    "release": "latestRelease1"
+  },
+  {
+    "title": "One Punch Man",
+    "genre": "Anime",
+    "image": "images/OnePunchman.png"
+  },
+  {
+    "title": "Pirates Of The Caribbean 1",
+    "genre": "Movie",
+    "image": "images/pirates1.jpg",
+    "release": "continueWatching"
+  },
+  {
+    "title": "Pirates Of The Caribbean 2",
+    "genre": "Movie",
+    "image": "images/pirates2.jpg",
+    "release": "latestRelease1"
+  },
+  {
+    "title": "What's Wrong with Secretary Kim",
+    "genre": "Kdrama",
+    "image": "images/SecretaryKim.jpg",
+    "release": "continueWatching"
+  },
+  {
+    "title": "Pirates Of The Caribbean 3",
+    "genre": "Kdrama",
+    "image": "images/pirates3.jpg",
+    "release": "popularOnNetflix"
+  },
+  {
+    "title": "Slam Dunk",
+    "genre": "Anime",
+    "image": "images/Slam_dunk.jpg",
+    "release": "popularOnNetflix"
+  },
+  {
+    "title": "Signal",
+    "genre": "Kdrama",
+    "image": "images/Signal_Korean_Drama.jpg",
+    "release": "popularOnNetflixTest"
+  },
+  {
+    "title": "Spider Man",
+    "genre": "Movie",
+    "image": "images/SpiderMan.png",
+    "release": "continueWatching1"
+  },
+  {
+    "title": "Squid Game",
+    "genre": "Kdrama",
+    "image": "images/Squid_Game.jpg",
+    "release": "latestRelease1"
+  }
+]
